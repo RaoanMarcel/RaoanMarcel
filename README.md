@@ -1,10 +1,10 @@
-### Olá! Eu sou o Raoan Marcel 👋
+### Olá! Eu sou o Raoan Marcel 
 
 Sou um **Engenheiro de Dados e Desenvolvedor** focado em transformar dados brutos em inteligência acionável. Especialista em construir pipelines de dados, automações e backends robustos.
 
-- 🔭 Atualmente trabalhando em projetos de **Arquitetura de Dados e ETL**.
-- 🌱 Estudando **Machine Learning** e **Processamento de Big Data**.
-- 💼 Aberto a oportunidades como **Data Engineer** ou **Backend Developer**.
+-  Atualmente trabalhando em projetos de **Arquitetura de Dados e ETL**.
+-  Estudando **Machine Learning** e **Processamento de Big Data**.
+-  Aberto a oportunidades como **Data Engineer** ou **Backend Developer**.
 
 ---
 
