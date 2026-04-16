@@ -45,10 +45,10 @@ Sou um **Engenheiro de Dados e Desenvolvedor** focado em transformar dados bruto
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RaoanMarcel&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&text_color=94a3b8&icon_color=10b981&cache_seconds=1800&v=1" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RaoanMarcel&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&text_color=94a3b8&icon_color=10b981&include_all_commits=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoanMarcel&layout=compact&theme=transparent&hide_border=true&title_color=10b981&text_color=94a3b8&cache_seconds=1800&v=1" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoanMarcel&layout=compact&theme=transparent&hide_border=true&title_color=10b981&text_color=94a3b8" />
   </a>
 </div>
 
